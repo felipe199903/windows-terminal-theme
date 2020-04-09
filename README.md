@@ -1,10 +1,13 @@
 # windows-terminal-theme
 
 ## CMD
-![screenshot]<img src="/Screenshots/CMD-theme.png" alt="CMD">
+<img src="/Screenshots/CMD-theme.png" alt="CMD">
+<br>
 
 ## PowerShell
-![screenshot]<img src="/Screenshots/PowerShell-theme.png" alt="PowerShell">
+<img src="/Screenshots/PowerShell-theme.png" alt="PowerShell">
+<br>
 
 ## Ubuntu
-![screenshot]<img src="/Screenshots/Ubuntu-theme.png" alt="Ubuntu">
+<img src="/Screenshots/Ubuntu-theme.png" alt="Ubuntu">
+<br>
