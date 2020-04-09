@@ -1,4 +1,8 @@
-# windows-terminal-theme
+# Windows Terminal-theme
+
+- CMD
+- PowerShell
+- Ubuntu
 
 ## CMD
 <img src="/Screenshots/CMD-theme.png" alt="CMD">
