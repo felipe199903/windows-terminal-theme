@@ -6,17 +6,15 @@
 - Power Shell 7
 - Kali Linux
 
-## CMD
-<img src="/Screenshots/CMD-theme.png" alt="CMD">
+## Themes
+### Blue Matrix
+<img src="/Screenshots/Blue Matrix.png" alt="Blue Matrix">
 
-## PowerShell
-<img src="/Screenshots/PowerShell-theme.png" alt="PowerShell">
+### Dracula
+<img src="/Screenshots/Dracula.png" alt="Dracula">
 
-## PowerShell 7
-<img src="/Screenshots/Pw7-theme.png" alt="PowerShell7">
+### Blazer
+<img src="/Screenshots/Blazer.png" alt="Blazer">
 
-## Ubuntu
-<img src="/Screenshots/Ubuntu-theme.png" alt="Ubuntu">
-
-## Kali Linux
-<img src="/Screenshots/Kali-theme.png" alt="Kali Linux">
+### UbuntuLegit
+<img src="/Screenshots/UbuntuLegit.png" alt="UbuntuLegit">
