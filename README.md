@@ -14,6 +14,13 @@
 
 - close a space on current window:  CTRL + SHIFT + W
 
+## Start-up layout
+
+on CMD or shotcut Windows Terminal arguments:
+```
+wt -p "PowerShell"; split-pane -p "Ubuntu"; split-pane -p "PowerShell" -H -d "C:\Users\"
+```
+
 ## Themes
 ### Blue Matrix
 <img src="/Screenshots/Blue Matrix.png" alt="Blue Matrix">
