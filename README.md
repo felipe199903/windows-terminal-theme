@@ -21,6 +21,10 @@ on CMD or shotcut Windows Terminal arguments:
 wt -p "PowerShell"; split-pane -p "Ubuntu"; split-pane -p "PowerShell" -H -d "C:\Users\"
 ```
 
+## Tips
+
+open the Terminal at the current directory: wt -d .
+
 ## Themes
 ### Blue Matrix
 <img src="/Screenshots/Blue Matrix.png" alt="Blue Matrix">
