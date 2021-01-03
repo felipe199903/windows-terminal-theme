@@ -6,6 +6,10 @@
 - Power Shell 7
 - Kali Linux
 
+## Shotcuts
+
+- ALT + SHIFT + '+' - For open new space on some window.
+
 ## Themes
 ### Blue Matrix
 <img src="/Screenshots/Blue Matrix.png" alt="Blue Matrix">
