@@ -8,7 +8,11 @@
 
 ## Shotcuts
 
-- ALT + SHIFT + '+' - For open new space on some window.
+- open new space on some window:  ALT + SHIFT + '+'
+
+- navegate on spaces:  ALT + SHIFT + '<arrow key>'
+
+- close a space on current window:  CTRL + SHIFT + W
 
 ## Themes
 ### Blue Matrix
