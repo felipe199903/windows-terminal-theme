@@ -9,7 +9,6 @@
 ## Shotcuts
 
 - open new space on some window:  ALT + SHIFT + '+'
-
 - navegate on spaces:  ALT + SHIFT + '<arrow key>'
 
 - close a space on current window:  CTRL + SHIFT + W
